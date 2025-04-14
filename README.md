@@ -12,3 +12,6 @@ Tasks
 * Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 * What do customers want? Our client is a big telecom company that needs to know.
 * Possible KPIs include Overall Customer Satisfaction, Overall Call Answer Abandoned, Calls by Time Average, Speed of Answer Agent's Performance, Average Handle Time vs Call Answered
+
+Case Study - 2
+
