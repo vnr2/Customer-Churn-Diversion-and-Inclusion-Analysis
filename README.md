@@ -14,5 +14,7 @@ Tasks
 * Possible KPIs include Overall Customer Satisfaction, Overall Call Answer Abandoned, Calls by Time Average, Speed of Answer Agent's Performance, Average Handle Time vs Call Answered
 
 Case Study - 2
+![image](https://github.com/user-attachments/assets/a549b31b-0b73-4f9f-9e00-3d80dfedaae7)
+
 
 
