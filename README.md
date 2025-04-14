@@ -31,6 +31,7 @@ Tasks
 * We want to know more about our customers visualized clearly so it is self-explanatory for our management.
 
 Case Study - 3 (Diversity and Inclusivity in HR Department)
+![image](https://github.com/user-attachments/assets/656fbaba-fd44-4e04-82d6-f6d4e69ed27c)
 
 
 Overview
