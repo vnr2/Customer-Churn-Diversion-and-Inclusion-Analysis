@@ -32,7 +32,7 @@ Tasks
 
 Case Study - 3 (Diversity and Inclusivity in HR Department)
 ![image](https://github.com/user-attachments/assets/656fbaba-fd44-4e04-82d6-f6d4e69ed27c)
-
+![image](https://github.com/user-attachments/assets/6a3588ee-cd07-448a-bcff-2fcde4024264)
 
 Overview
 
