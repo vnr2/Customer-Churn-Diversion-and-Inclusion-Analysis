@@ -1,6 +1,6 @@
-# Customer-Churn-Diversion-and-Inclusion-Analysis
+# Customer Churn Diversion and Inclusion Analysis
 
-This Project is conducted by PwC Switzerland Job Simulation aka Virtual Internship. It consists of three case studies on different datasets.
+This Project is conducted by PwC Switzerland Job Simulation, aka Virtual Internship. It consists of three case studies on different datasets.
 
 Case Study - 1 (Call Center Trends Analysis)
 ![image](https://github.com/user-attachments/assets/638d3a11-b113-49fd-b3e6-684ee1f8342e)
@@ -25,10 +25,10 @@ Organizations need to know possible customers who are likely to churn. In this d
 
 Tasks
 
-* Customers in the Telecom Industry are hard-earned we don't want to lose them so the retention department is here to get customers back in case of termination
-* We get in touch after they have terminated the contract but this is reactionary it would be better to know in advance who is at risk
+* Customers in the Telecom Industry are hard-earned, we don't want to lose the, so the retention department is here to get customers back in case of termination
+* We get in touch after they have terminated the contract, but this is reactionary; it would be better to know in advance who is at risk
 * Customer analysis is done in Excel
-* We want to know more about our customers visualized clearly so it is self-explanatory for our management.
+* We want to know more about our customers, visualized clearly, so it is self-explanatory for our management.
 
 Case Study - 3 (Diversity and Inclusivity in HR Department)
 ![image](https://github.com/user-attachments/assets/656fbaba-fd44-4e04-82d6-f6d4e69ed27c)
@@ -36,10 +36,10 @@ Case Study - 3 (Diversity and Inclusivity in HR Department)
 
 Overview
 
-HR at Telecom client is Highly into diversity and inclusion. They've been working hard to improve gender balance at the executive management level but they're not seeing any progress
+HR at the Telecom client is highly into diversity and inclusion. They've been working hard to improve gender balance at the executive management level, but they're not seeing any progress
 
 Tasks
 
 * Calculating measures could help to define proper KPI's
-* No of Men, Women No of leaves % employees promoted(FY21), % of women promoted, % of hires men,  % of hires women, % turnover, Average Performance Rating: Men, Average Performance Rating: Women
+* No of Men, Women, No of leaves, % employees promoted(FY21), % of women promoted, % of hires men,  % of hires women, % turnover, Average Performance Rating: Men, Average Performance Rating: Women
 
